@@ -7,7 +7,7 @@ from folium import Icon
 st.title("Home Health Agencies in RI-MA Region")
 
 # Pre-defined data (replace with the actual file path)
-file_path = "D:\Vivnovation\RI-MA-HHAS-With-Coordinates.csv"
+file_path = "RI-MA-HHAS-With-Coordinates.csv"
 
 # Load the data into a DataFrame
 try:
